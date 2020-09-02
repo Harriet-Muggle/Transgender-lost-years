@@ -13,14 +13,14 @@ We are proud to present these Guidelines for the Primary and Gender-Affirming Ca
 
 #### PDF发布版
 
-[https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0000_UCSF-Guidelines/UCSF-Transgender-PGACG-6-17-16-%E8%AF%91%E6%96%87.pdf](https://github.com/Kristall-WangShiwei/Transgender-lost-years/blob/master/0000-UCSF-Guidelines/UCSF-Transgender-PGACG-6-17-16-%E8%AF%91%E6%96%87.pdf)
-
+https://github.com/Kristall-WangShiwei/Transgender-lost-years/raw/master/0000_UCSF-Guidelines/UCSF-Transgender-PGACG-6-17-16-%E8%AF%91%E6%96%87.pdf
 ---
 
-#### 内部工作文档
+#### 内部工作文档 internal working document
 
-协作翻译Word文件：
+协作翻译Word文件 (Teamwork translation document-Chinese)：
+
 [https://1drv.ms/w/s!AkV2pL6mFSXGiWcEAE7vFZ1FmTua](https://1drv.ms/w/s!AkV2pL6mFSXGiWcEAE7vFZ1FmTua)
 
-原始PDF文件：
+原始PDF文件(Originak PDF File)：
 [http://transhealth.ucsf.edu/pdf/Transgender-PGACG-6-17-16.pdf](http://transhealth.ucsf.edu/pdf/Transgender-PGACG-6-17-16.pdf)
